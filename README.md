@@ -54,7 +54,9 @@ The interactive **Excel Dashboard** provides:
 
 ## 📌 Screenshot of Dashboard:
 
-*(Add screenshot here)*
+*![Image](https://github.com/user-attachments/assets/e36609c8-eb54-41ca-a909-1a70d1a65b95)*
+
+https://github.com/user-attachments/assets/a576a15f-592c-4990-90a2-a51ac2047084
 
 ## 🚀 Potential Use Cases
 
